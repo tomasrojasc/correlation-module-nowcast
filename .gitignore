@@ -1,0 +1,9 @@
+.gitignore
+idea/*
+files2cross_corr/file1.csv
+files2cross_corr/file2.csv
+final_output/*
+modules/__pycache__/*
+scripts/__pycache__/*
+UT_data/file1/*
+UT_data/file2/*
