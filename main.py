@@ -5,3 +5,4 @@ import scripts.making_cross_corr
 import scripts.making_df_with_cross_corrs
 import scripts.getting_max_corr
 os.system('bash clean.sh')
+print('done')
