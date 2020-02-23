@@ -25,7 +25,5 @@ Basically the only thing you have to do is set up ``file1.csv`` and ``file2.csv`
 ## Things to note
 All the intermediate files are deleted after the execution is done. This is to avoid confusions. This can be ignored by deleting the line in ``main.py`` that executes the ``clean.sh`` bash file.
 
-I am not a software engineer so I apologize in advance for any atrocity you may find in this repository. 😅
-
 ## Credits
   * The pydcf bby Damien Robertson can be found [here](https://github.com/astronomerdamo/pydcf).
